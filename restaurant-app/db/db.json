@@ -1,0 +1,6 @@
+{
+    "restauratn":[
+        {"id":1, "name": "json-resto","auth":"usman"},
+        {"id":2, "name": "json-resto","auth":"usman"}
+    ]
+}
